@@ -1,6 +1,6 @@
 ## Saudações, viajantes. Eu sou Andryel Hiyoshi Onoue 👋
 
-- 🔭 Ciência de Dados
+- 🔭 Ciência de Dados, MLOps e Software Development
 - 🌱 Estudando Azure Cloud Services e Machine Learning
 - 😄 Pronomes: ele/dele
 
